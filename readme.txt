@@ -1,0 +1,1 @@
+callPS2EXE.bat publish_script.ps1 publish_script.exe
